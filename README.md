@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I build the systems behind the spreadsheets. As a third-year Software Engineering student (**GPA 3.6, top 5% of my major**), I've already shipped an **accounting and inventory platform**, **ETL pipelines** for a non-profit, and **marketing analytics dashboards** for a pharmaceutical company.
+I build the systems behind the spreadsheets. As a third-year Software Engineering student , I've already shipped an **accounting and inventory platform**, **ETL pipelines** for a non-profit, and **marketing analytics dashboards** for a pharmaceutical company.
 
 I like databases, clean data, and automating manual processes, from database design through to the dashboard people actually use.
 

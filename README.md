@@ -14,7 +14,6 @@
 
 <a href="https://linkedin.com/in/abdulwahidkhaled-79560a272"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="Open to internships"/>
-<img src="https://img.shields.io/badge/Top%205%25-of%20major-2ea44f?style=for-the-badge" alt="Top 5% of major"/>
 
 </div>
 
@@ -70,7 +69,6 @@ I like databases, clean data, and automating manual processes, from database des
       Arabic-language platform for international shipping, university admissions, and visa services.<br/><br/>
       <img src="https://img.shields.io/badge/-Web%20App-0A66C2"/>
       <img src="https://img.shields.io/badge/-Arabic%20RTL-2ea44f"/><br/><br/>
-      <a href="https://perfectoffr-j6bfenqz.manus.space/">🚀 Live demo</a>
     </td>
   </tr>
   <tr>
@@ -142,7 +140,7 @@ I like databases, clean data, and automating manual processes, from database des
 ## 🎓 Education
 
 **Zhejiang University of Technology**, B.Eng. Software Engineering (expected 2028)<br/>
-GPA **3.6** · Top **5%** of major · 2024 Excellence Scholarship · 2025 Outstanding Student Scholarship<br/>
+2024 Excellence Scholarship · 2025 Outstanding Student Scholarship<br/>
 *Coursework:* Data Structures & Algorithms · Operating Systems · Computer Networks · Database Design · Web Development · App Development
 
 ## 🌐 Beyond the code
@@ -152,7 +150,7 @@ GPA **3.6** · Top **5%** of major · 2024 Excellence Scholarship · 2025 Outsta
 
 ## 🇨🇳 中文简介
 
-浙江工业大学软件工程专业三年级在读，绩点 3.6，专业排名前 5%。有会计系统开发、数据管理（ETL）与营销数据看板的实际项目经验，熟悉 Python、Java、C++、SQL、React、Node.js、PostgreSQL、MySQL。母语阿拉伯语，中文熟练，英语流利。**正在寻找软件开发 / 数据库 / 数据分析方向的实习机会。**
+浙江工业大学软件工程专业三年级在读。有会计系统开发、数据管理（ETL）与营销数据看板的实际项目经验，熟悉 Python、Java、C++、SQL、React、Node.js、PostgreSQL、MySQL。母语阿拉伯语，中文熟练，英语流利。**正在寻找软件开发 / 数据库 / 数据分析方向的实习机会。**
 
 <!-- ================= GITHUB STATS (uncomment once your repos are public) =================
 ## 📊 GitHub stats
